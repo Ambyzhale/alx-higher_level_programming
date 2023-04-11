@@ -1,9 +1,3 @@
 #!/usr/bin/node
-
-/* variable declaration */
-
-const myVar = "JavaScript is amazing";
-
-/* printing the result */
-
+const myVar = 'Javascript is amazing';
 console.log(myVar);
