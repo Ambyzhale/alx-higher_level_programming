@@ -1,1 +1,1 @@
-python if else loops functions
+javascript objects scopes closures
